@@ -2,7 +2,9 @@
 
 # Required Tools
 1)Any Java IDE e.g. IntelliJ, Eclipse, NetBeans etcetera (IntelliJ recommended - any edition will do, community ediion is free.
+
 2)MySql database (free)
+
 3)Java should be installed on your system.
 
 # Set up Guide

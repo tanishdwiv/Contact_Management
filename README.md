@@ -38,4 +38,8 @@ e.g my path is '--module-path "C:\Users\HP\Desktop\EMS\Java\javafx-sdk-15.0.1\li
 Your path should be exactly same, except for the "C:\Users\HP\Desktop...". This part only depends on wherever you placed the javafx sdk folder
 In the src file main.java, provide your database details (name, username, password) in the function setMySQL() and give your email address and password in the function setEmailDetails().
 
+# Contact Info:
+For further queries contact me at : tanishdwivedi847@gmail.com 
+
+
 Run project and enjoy :)
